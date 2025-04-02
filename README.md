@@ -1,0 +1,1 @@
+# llamaindex-practise-with-google-gemini
